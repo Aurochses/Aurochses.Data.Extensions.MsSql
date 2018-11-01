@@ -10,9 +10,8 @@ Aurochses Data Extensions MsSql is a library for MsSql.
 
 ## Builds
 
-Type            | Status 
+Branch          | Status 
 ----------------|--------
-CI (develop)    | [![Visual Studio Team services](https://img.shields.io/vso/build/aurochses/784be346-9d3f-458f-95d8-5f1a8b5e1227/350.svg?style=flat-square)](https://aurochses.visualstudio.com/Aurochses.CSharp/_build/index?definitionId=350)
-CI (pre-master) | [![Visual Studio Team services](https://img.shields.io/vso/build/aurochses/784be346-9d3f-458f-95d8-5f1a8b5e1227/351.svg?style=flat-square)](https://aurochses.visualstudio.com/Aurochses.CSharp/_build/index?definitionId=351)
-PR (latest)     | [![Visual Studio Team services](https://img.shields.io/vso/build/aurochses/784be346-9d3f-458f-95d8-5f1a8b5e1227/352.svg?style=flat-square)](https://aurochses.visualstudio.com/Aurochses.CSharp/_build/index?definitionId=352)
-NuGet           | [![Visual Studio Team services](https://img.shields.io/vso/build/aurochses/784be346-9d3f-458f-95d8-5f1a8b5e1227/353.svg?style=flat-square)](https://aurochses.visualstudio.com/Aurochses.CSharp/_build/index?definitionId=353)
+develop    | [![Build status](https://aurochses.visualstudio.com/Aurochses.GitHub/_apis/build/status/Aurochses.Data.Extensions.MsSql_CI?branchName=develop)](https://aurochses.visualstudio.com/Aurochses.GitHub/_build/latest?definitionId=377)
+pre-master | [![Build status](https://aurochses.visualstudio.com/Aurochses.GitHub/_apis/build/status/Aurochses.Data.Extensions.MsSql_CI?branchName=pre-master)](https://aurochses.visualstudio.com/Aurochses.GitHub/_build/latest?definitionId=377)
+master     | [![Build status](https://aurochses.visualstudio.com/Aurochses.GitHub/_apis/build/status/Aurochses.Data.Extensions.MsSql_CI?branchName=master)](https://aurochses.visualstudio.com/Aurochses.GitHub/_build/latest?definitionId=377)
