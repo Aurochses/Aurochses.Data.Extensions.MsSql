@@ -6,12 +6,12 @@
     public static class Functions
     {
         /// <summary>
-        /// newsequentialid
+        /// newsequentialid()
         /// </summary>
         public const string NewSequentialId = "newsequentialid()";
 
         /// <summary>
-        /// getutcdate
+        /// getutcdate()
         /// </summary>
         public const string GetUtcDate = "getutcdate()";
     }
